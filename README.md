@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Saqib</h1>
 <h3 align="center">A Passionate Back End Developer</h3>
 
-<img align="right" width="400" src="https://media.licdn.com/dms/image/D4D03AQGGJnyg34Q6Rw/profile-displayphoto-shrink_800_800/0/1703242458939?e=1709164800&v=beta&t=lCJ5tlGQD2vH6vKpTl_jrd81uQQv2bZwQHC908OHkqk" >
+<img align="right" width="200" src="https://media.licdn.com/dms/image/D4D03AQGGJnyg34Q6Rw/profile-displayphoto-shrink_800_800/0/1703242458939?e=1709164800&v=beta&t=lCJ5tlGQD2vH6vKpTl_jrd81uQQv2bZwQHC908OHkqk" >
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliksaqib01&label=Profile%20views&color=0e75b6&style=flat" alt="maliksaqib01" /> </p>
 
