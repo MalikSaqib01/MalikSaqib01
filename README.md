@@ -5,16 +5,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maliksaqib01&label=Profile%20views&color=0e75b6&style=flat" alt="maliksaqib01" /> </p>
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Redis, Java DevOps**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Redis, Java DevOps (Docker Jenkis Kubernates)**
 
 - 📫 How to reach me **malicksaqib01@gmail.com**
-
-- ⚡ Fun fact **love to play chess**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammad-saqib-2a4428217/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/muhammad-saqib-2a4428217/" height="30" width="40" /></a>
-<a href="https://instagram.com/typicalsaqib" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="typicalsaqib" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
